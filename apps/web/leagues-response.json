@@ -1,0 +1,2827 @@
+{
+  "data": [
+    {
+      "id": 1635,
+      "logo": null,
+      "name": "World Cup",
+      "seasons": [
+        {
+          "season": 2022
+        }
+      ],
+      "country": {
+        "code": "World",
+        "name": "World",
+        "logo": "https://highlightly.net/soccer/images/countries/World.png"
+      }
+    },
+    {
+      "id": 2486,
+      "logo": "https://highlightly.net/soccer/images/leagues/2486.png",
+      "name": "UEFA Champions League",
+      "seasons": [
+        {
+          "season": 2021
+        },
+        {
+          "season": 2025
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2023
+        },
+        {
+          "season": 2019
+        },
+        {
+          "season": 2020
+        },
+        {
+          "season": 2022
+        }
+      ],
+      "country": {
+        "code": "World",
+        "name": "World",
+        "logo": "https://highlightly.net/soccer/images/countries/World.png"
+      }
+    },
+    {
+      "id": 3337,
+      "logo": "https://highlightly.net/soccer/images/leagues/3337.png",
+      "name": "UEFA Europa League",
+      "seasons": [
+        {
+          "season": 2023
+        },
+        {
+          "season": 2025
+        },
+        {
+          "season": 2019
+        },
+        {
+          "season": 2020
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2021
+        },
+        {
+          "season": 2022
+        }
+      ],
+      "country": {
+        "code": "World",
+        "name": "World",
+        "logo": "https://highlightly.net/soccer/images/countries/World.png"
+      }
+    },
+    {
+      "id": 4188,
+      "logo": "https://highlightly.net/soccer/images/leagues/4188.png",
+      "name": "Euro Championship",
+      "seasons": [
+        {
+          "season": 2024
+        },
+        {
+          "season": 2020
+        }
+      ],
+      "country": {
+        "code": "World",
+        "name": "World",
+        "logo": "https://highlightly.net/soccer/images/countries/World.png"
+      }
+    },
+    {
+      "id": 5039,
+      "logo": "https://highlightly.net/soccer/images/leagues/5039.png",
+      "name": "UEFA Nations League",
+      "seasons": [
+        {
+          "season": 2022
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2020
+        }
+      ],
+      "country": {
+        "code": "World",
+        "name": "World",
+        "logo": "https://highlightly.net/soccer/images/countries/World.png"
+      }
+    },
+    {
+      "id": 5890,
+      "logo": "https://highlightly.net/soccer/images/leagues/5890.png",
+      "name": "Africa Cup of Nations",
+      "seasons": [
+        {
+          "season": 2023
+        },
+        {
+          "season": 2021
+        }
+      ],
+      "country": {
+        "code": "World",
+        "name": "World",
+        "logo": "https://highlightly.net/soccer/images/countries/World.png"
+      }
+    },
+    {
+      "id": 6741,
+      "logo": "https://highlightly.net/soccer/images/leagues/6741.png",
+      "name": "Asian Cup",
+      "seasons": [
+        {
+          "season": 2023
+        }
+      ],
+      "country": {
+        "code": "World",
+        "name": "World",
+        "logo": "https://highlightly.net/soccer/images/countries/World.png"
+      }
+    },
+    {
+      "id": 7592,
+      "logo": "https://highlightly.net/soccer/images/leagues/7592.png",
+      "name": "World Cup - Women",
+      "seasons": [
+        {
+          "season": 2023
+        }
+      ],
+      "country": {
+        "code": "World",
+        "name": "World",
+        "logo": "https://highlightly.net/soccer/images/countries/World.png"
+      }
+    },
+    {
+      "id": 8443,
+      "logo": "https://highlightly.net/soccer/images/leagues/8443.png",
+      "name": "Copa America",
+      "seasons": [
+        {
+          "season": 2021
+        },
+        {
+          "season": 2024
+        }
+      ],
+      "country": {
+        "code": "World",
+        "name": "World",
+        "logo": "https://highlightly.net/soccer/images/countries/World.png"
+      }
+    },
+    {
+      "id": 9294,
+      "logo": "https://highlightly.net/soccer/images/leagues/9294.png",
+      "name": "Friendlies",
+      "seasons": [
+        {
+          "season": 2023
+        },
+        {
+          "season": 2025
+        },
+        {
+          "season": 2022
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2020
+        },
+        {
+          "season": 2021
+        }
+      ],
+      "country": {
+        "code": "World",
+        "name": "World",
+        "logo": "https://highlightly.net/soccer/images/countries/World.png"
+      }
+    },
+    {
+      "id": 10145,
+      "logo": "https://highlightly.net/soccer/images/leagues/10145.png",
+      "name": "CONMEBOL Sudamericana",
+      "seasons": [
+        {
+          "season": 2023
+        },
+        {
+          "season": 2022
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2025
+        },
+        {
+          "season": 2021
+        },
+        {
+          "season": 2020
+        }
+      ],
+      "country": {
+        "code": "World",
+        "name": "World",
+        "logo": "https://highlightly.net/soccer/images/countries/World.png"
+      }
+    },
+    {
+      "id": 10996,
+      "logo": "https://highlightly.net/soccer/images/leagues/10996.png",
+      "name": "CAF Champions League",
+      "seasons": [
+        {
+          "season": 2021
+        },
+        {
+          "season": 2023
+        },
+        {
+          "season": 2020
+        },
+        {
+          "season": 2019
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2022
+        },
+        {
+          "season": 2025
+        }
+      ],
+      "country": {
+        "code": "World",
+        "name": "World",
+        "logo": "https://highlightly.net/soccer/images/countries/World.png"
+      }
+    },
+    {
+      "id": 11847,
+      "logo": "https://highlightly.net/soccer/images/leagues/11847.png",
+      "name": "CONMEBOL Libertadores",
+      "seasons": [
+        {
+          "season": 2023
+        },
+        {
+          "season": 2021
+        },
+        {
+          "season": 2025
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2020
+        },
+        {
+          "season": 2022
+        }
+      ],
+      "country": {
+        "code": "World",
+        "name": "World",
+        "logo": "https://highlightly.net/soccer/images/countries/World.png"
+      }
+    },
+    {
+      "id": 12698,
+      "logo": "https://highlightly.net/soccer/images/leagues/12698.png",
+      "name": "UEFA Youth League",
+      "seasons": [
+        {
+          "season": 2023
+        },
+        {
+          "season": 2022
+        },
+        {
+          "season": 2020
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2025
+        },
+        {
+          "season": 2019
+        },
+        {
+          "season": 2021
+        }
+      ],
+      "country": {
+        "code": "World",
+        "name": "World",
+        "logo": "https://highlightly.net/soccer/images/countries/World.png"
+      }
+    },
+    {
+      "id": 13549,
+      "logo": "https://highlightly.net/soccer/images/leagues/13549.png",
+      "name": "FIFA Club World Cup",
+      "seasons": [
+        {
+          "season": 2025
+        },
+        {
+          "season": 2020
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2023
+        },
+        {
+          "season": 2021
+        },
+        {
+          "season": 2022
+        }
+      ],
+      "country": {
+        "code": "World",
+        "name": "World",
+        "logo": "https://highlightly.net/soccer/images/countries/World.png"
+      }
+    },
+    {
+      "id": 14400,
+      "logo": "https://highlightly.net/soccer/images/leagues/14400.png",
+      "name": "CONCACAF Champions League",
+      "seasons": [
+        {
+          "season": 2021
+        },
+        {
+          "season": 2025
+        },
+        {
+          "season": 2020
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2022
+        },
+        {
+          "season": 2023
+        }
+      ],
+      "country": {
+        "code": "World",
+        "name": "World",
+        "logo": "https://highlightly.net/soccer/images/countries/World.png"
+      }
+    },
+    {
+      "id": 15251,
+      "logo": "https://highlightly.net/soccer/images/leagues/15251.png",
+      "name": "AFC Champions League",
+      "seasons": [
+        {
+          "season": 2023
+        },
+        {
+          "season": 2021
+        },
+        {
+          "season": 2025
+        },
+        {
+          "season": 2022
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2020
+        }
+      ],
+      "country": {
+        "code": "World",
+        "name": "World",
+        "logo": "https://highlightly.net/soccer/images/countries/World.png"
+      }
+    },
+    {
+      "id": 16102,
+      "logo": "https://highlightly.net/soccer/images/leagues/16102.png",
+      "name": "AFC Cup",
+      "seasons": [
+        {
+          "season": 2021
+        },
+        {
+          "season": 2025
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2023
+        },
+        {
+          "season": 2020
+        },
+        {
+          "season": 2022
+        }
+      ],
+      "country": {
+        "code": "World",
+        "name": "World",
+        "logo": "https://highlightly.net/soccer/images/countries/World.png"
+      }
+    },
+    {
+      "id": 16953,
+      "logo": "https://highlightly.net/soccer/images/leagues/16953.png",
+      "name": "African Nations Championship",
+      "seasons": [
+        {
+          "season": 2022
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2020
+        }
+      ],
+      "country": {
+        "code": "World",
+        "name": "World",
+        "logo": "https://highlightly.net/soccer/images/countries/World.png"
+      }
+    },
+    {
+      "id": 17804,
+      "logo": "https://highlightly.net/soccer/images/leagues/17804.png",
+      "name": "CAF Confederation Cup",
+      "seasons": [
+        {
+          "season": 2025
+        },
+        {
+          "season": 2022
+        },
+        {
+          "season": 2023
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2019
+        },
+        {
+          "season": 2020
+        },
+        {
+          "season": 2021
+        }
+      ],
+      "country": {
+        "code": "World",
+        "name": "World",
+        "logo": "https://highlightly.net/soccer/images/countries/World.png"
+      }
+    },
+    {
+      "id": 19506,
+      "logo": "https://highlightly.net/soccer/images/leagues/19506.png",
+      "name": "CONCACAF Gold Cup",
+      "seasons": [
+        {
+          "season": 2021
+        },
+        {
+          "season": 2023
+        },
+        {
+          "season": 2025
+        }
+      ],
+      "country": {
+        "code": "World",
+        "name": "World",
+        "logo": "https://highlightly.net/soccer/images/countries/World.png"
+      }
+    },
+    {
+      "id": 20357,
+      "logo": "https://highlightly.net/soccer/images/leagues/20357.png",
+      "name": "EAFF E-1 Football Championship",
+      "seasons": [
+        {
+          "season": 2025
+        },
+        {
+          "season": 2021
+        }
+      ],
+      "country": {
+        "code": "World",
+        "name": "World",
+        "logo": "https://highlightly.net/soccer/images/countries/World.png"
+      }
+    },
+    {
+      "id": 21208,
+      "logo": "https://highlightly.net/soccer/images/leagues/21208.png",
+      "name": "AFF Championship",
+      "seasons": [
+        {
+          "season": 2020
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2023
+        },
+        {
+          "season": 2022
+        }
+      ],
+      "country": {
+        "code": "World",
+        "name": "World",
+        "logo": "https://highlightly.net/soccer/images/countries/World.png"
+      }
+    },
+    {
+      "id": 22059,
+      "logo": "https://highlightly.net/soccer/images/leagues/22059.png",
+      "name": "Gulf Cup of Nations",
+      "seasons": [
+        {
+          "season": 2024
+        },
+        {
+          "season": 2023
+        }
+      ],
+      "country": {
+        "code": "World",
+        "name": "World",
+        "logo": "https://highlightly.net/soccer/images/countries/World.png"
+      }
+    },
+    {
+      "id": 23761,
+      "logo": "https://highlightly.net/soccer/images/leagues/23761.png",
+      "name": "OFC Champions League",
+      "seasons": [
+        {
+          "season": 2025
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2021
+        },
+        {
+          "season": 2023
+        }
+      ],
+      "country": {
+        "code": "World",
+        "name": "World",
+        "logo": "https://highlightly.net/soccer/images/countries/World.png"
+      }
+    },
+    {
+      "id": 24612,
+      "logo": "https://highlightly.net/soccer/images/leagues/24612.png",
+      "name": "SAFF Championship",
+      "seasons": [
+        {
+          "season": 2023
+        },
+        {
+          "season": 2021
+        }
+      ],
+      "country": {
+        "code": "World",
+        "name": "World",
+        "logo": "https://highlightly.net/soccer/images/countries/World.png"
+      }
+    },
+    {
+      "id": 25463,
+      "logo": "https://highlightly.net/soccer/images/leagues/25463.png",
+      "name": "World Cup - Qualification Africa",
+      "seasons": [
+        {
+          "season": 2023
+        },
+        {
+          "season": 2022
+        }
+      ],
+      "country": {
+        "code": "World",
+        "name": "World",
+        "logo": "https://highlightly.net/soccer/images/countries/World.png"
+      }
+    },
+    {
+      "id": 26314,
+      "logo": "https://highlightly.net/soccer/images/leagues/26314.png",
+      "name": "World Cup - Qualification Asia",
+      "seasons": [
+        {
+          "season": 2026
+        },
+        {
+          "season": 2022
+        }
+      ],
+      "country": {
+        "code": "World",
+        "name": "World",
+        "logo": "https://highlightly.net/soccer/images/countries/World.png"
+      }
+    },
+    {
+      "id": 27165,
+      "logo": "https://highlightly.net/soccer/images/leagues/27165.png",
+      "name": "World Cup - Qualification CONCACAF",
+      "seasons": [
+        {
+          "season": 2026
+        },
+        {
+          "season": 2022
+        }
+      ],
+      "country": {
+        "code": "World",
+        "name": "World",
+        "logo": "https://highlightly.net/soccer/images/countries/World.png"
+      }
+    },
+    {
+      "id": 28016,
+      "logo": "https://highlightly.net/soccer/images/leagues/28016.png",
+      "name": "World Cup - Qualification Europe",
+      "seasons": [
+        {
+          "season": 2020
+        },
+        {
+          "season": 2024
+        }
+      ],
+      "country": {
+        "code": "World",
+        "name": "World",
+        "logo": "https://highlightly.net/soccer/images/countries/World.png"
+      }
+    },
+    {
+      "id": 28867,
+      "logo": "https://highlightly.net/soccer/images/leagues/28867.png",
+      "name": "World Cup - Qualification Oceania",
+      "seasons": [
+        {
+          "season": 2026
+        },
+        {
+          "season": 2022
+        }
+      ],
+      "country": {
+        "code": "World",
+        "name": "World",
+        "logo": "https://highlightly.net/soccer/images/countries/World.png"
+      }
+    },
+    {
+      "id": 29718,
+      "logo": "https://highlightly.net/soccer/images/leagues/29718.png",
+      "name": "World Cup - Qualification South America",
+      "seasons": [
+        {
+          "season": 2022
+        },
+        {
+          "season": 2026
+        }
+      ],
+      "country": {
+        "code": "World",
+        "name": "World",
+        "logo": "https://highlightly.net/soccer/images/countries/World.png"
+      }
+    },
+    {
+      "id": 30569,
+      "logo": "https://highlightly.net/soccer/images/leagues/30569.png",
+      "name": "Asian Cup - Qualification",
+      "seasons": [
+        {
+          "season": 2024
+        },
+        {
+          "season": 2022
+        }
+      ],
+      "country": {
+        "code": "World",
+        "name": "World",
+        "logo": "https://highlightly.net/soccer/images/countries/World.png"
+      }
+    },
+    {
+      "id": 31420,
+      "logo": "https://highlightly.net/soccer/images/leagues/31420.png",
+      "name": "Africa Cup of Nations - Qualification",
+      "seasons": [
+        {
+          "season": 2021
+        },
+        {
+          "season": 2025
+        },
+        {
+          "season": 2023
+        }
+      ],
+      "country": {
+        "code": "World",
+        "name": "World",
+        "logo": "https://highlightly.net/soccer/images/countries/World.png"
+      }
+    },
+    {
+      "id": 32271,
+      "logo": "https://highlightly.net/soccer/images/leagues/32271.png",
+      "name": "World Cup - Qualification Intercontinental Play-offs",
+      "seasons": [
+        {
+          "season": 2022
+        }
+      ],
+      "country": {
+        "code": "World",
+        "name": "World",
+        "logo": "https://highlightly.net/soccer/images/countries/World.png"
+      }
+    },
+    {
+      "id": 33122,
+      "logo": "https://highlightly.net/soccer/images/leagues/33122.png",
+      "name": "UEFA U21 Championship",
+      "seasons": [
+        {
+          "season": 2023
+        },
+        {
+          "season": 2025
+        },
+        {
+          "season": 2021
+        }
+      ],
+      "country": {
+        "code": "World",
+        "name": "World",
+        "logo": "https://highlightly.net/soccer/images/countries/World.png"
+      }
+    },
+    {
+      "id": 33973,
+      "logo": "https://highlightly.net/soccer/images/leagues/33973.png",
+      "name": "Premier League",
+      "seasons": [
+        {
+          "season": 2019
+        },
+        {
+          "season": 2025
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2020
+        },
+        {
+          "season": 2021
+        },
+        {
+          "season": 2022
+        },
+        {
+          "season": 2023
+        }
+      ],
+      "country": {
+        "code": "GB-ENG",
+        "name": "England",
+        "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+      }
+    },
+    {
+      "id": 34824,
+      "logo": "https://highlightly.net/soccer/images/leagues/34824.png",
+      "name": "Championship",
+      "seasons": [
+        {
+          "season": 2024
+        },
+        {
+          "season": 2025
+        },
+        {
+          "season": 2023
+        },
+        {
+          "season": 2019
+        },
+        {
+          "season": 2020
+        },
+        {
+          "season": 2021
+        },
+        {
+          "season": 2022
+        }
+      ],
+      "country": {
+        "code": "GB-ENG",
+        "name": "England",
+        "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+      }
+    },
+    {
+      "id": 35675,
+      "logo": "https://highlightly.net/soccer/images/leagues/35675.png",
+      "name": "League One",
+      "seasons": [
+        {
+          "season": 2023
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2025
+        },
+        {
+          "season": 2019
+        },
+        {
+          "season": 2020
+        },
+        {
+          "season": 2021
+        },
+        {
+          "season": 2022
+        }
+      ],
+      "country": {
+        "code": "GB-ENG",
+        "name": "England",
+        "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+      }
+    },
+    {
+      "id": 36526,
+      "logo": "https://highlightly.net/soccer/images/leagues/36526.png",
+      "name": "League Two",
+      "seasons": [
+        {
+          "season": 2023
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2025
+        },
+        {
+          "season": 2019
+        },
+        {
+          "season": 2020
+        },
+        {
+          "season": 2021
+        },
+        {
+          "season": 2022
+        }
+      ],
+      "country": {
+        "code": "GB-ENG",
+        "name": "England",
+        "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+      }
+    },
+    {
+      "id": 37377,
+      "logo": "https://highlightly.net/soccer/images/leagues/37377.png",
+      "name": "National League",
+      "seasons": [
+        {
+          "season": 2023
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2020
+        },
+        {
+          "season": 2025
+        },
+        {
+          "season": 2019
+        },
+        {
+          "season": 2021
+        },
+        {
+          "season": 2022
+        }
+      ],
+      "country": {
+        "code": "GB-ENG",
+        "name": "England",
+        "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+      }
+    },
+    {
+      "id": 38228,
+      "logo": "https://highlightly.net/soccer/images/leagues/38228.png",
+      "name": "FA WSL",
+      "seasons": [
+        {
+          "season": 2019
+        },
+        {
+          "season": 2023
+        },
+        {
+          "season": 2020
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2021
+        },
+        {
+          "season": 2025
+        },
+        {
+          "season": 2022
+        }
+      ],
+      "country": {
+        "code": "GB-ENG",
+        "name": "England",
+        "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+      }
+    },
+    {
+      "id": 39079,
+      "logo": "https://highlightly.net/soccer/images/leagues/39079.png",
+      "name": "FA Cup",
+      "seasons": [
+        {
+          "season": 2025
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2019
+        },
+        {
+          "season": 2023
+        },
+        {
+          "season": 2020
+        },
+        {
+          "season": 2021
+        },
+        {
+          "season": 2022
+        }
+      ],
+      "country": {
+        "code": "GB-ENG",
+        "name": "England",
+        "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+      }
+    },
+    {
+      "id": 39930,
+      "logo": "https://highlightly.net/soccer/images/leagues/39930.png",
+      "name": "EFL Trophy",
+      "seasons": [
+        {
+          "season": 2022
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2025
+        },
+        {
+          "season": 2023
+        },
+        {
+          "season": 2019
+        },
+        {
+          "season": 2020
+        },
+        {
+          "season": 2021
+        }
+      ],
+      "country": {
+        "code": "GB-ENG",
+        "name": "England",
+        "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+      }
+    },
+    {
+      "id": 40781,
+      "logo": "https://highlightly.net/soccer/images/leagues/40781.png",
+      "name": "FA Trophy",
+      "seasons": [
+        {
+          "season": 2021
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2025
+        },
+        {
+          "season": 2020
+        },
+        {
+          "season": 2023
+        },
+        {
+          "season": 2022
+        }
+      ],
+      "country": {
+        "code": "GB-ENG",
+        "name": "England",
+        "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+      }
+    },
+    {
+      "id": 41632,
+      "logo": "https://highlightly.net/soccer/images/leagues/41632.png",
+      "name": "League Cup",
+      "seasons": [
+        {
+          "season": 2024
+        },
+        {
+          "season": 2025
+        },
+        {
+          "season": 2023
+        },
+        {
+          "season": 2020
+        },
+        {
+          "season": 2021
+        },
+        {
+          "season": 2022
+        }
+      ],
+      "country": {
+        "code": "GB-ENG",
+        "name": "England",
+        "logo": "https://highlightly.net/soccer/images/countries/GB-ENG.svg"
+      }
+    },
+    {
+      "id": 52695,
+      "logo": "https://highlightly.net/soccer/images/leagues/52695.png",
+      "name": "Ligue 1",
+      "seasons": [
+        {
+          "season": 2023
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2020
+        },
+        {
+          "season": 2021
+        },
+        {
+          "season": 2025
+        },
+        {
+          "season": 2022
+        },
+        {
+          "season": 2019
+        }
+      ],
+      "country": {
+        "code": "FR",
+        "name": "France",
+        "logo": "https://highlightly.net/soccer/images/countries/FR.svg"
+      }
+    },
+    {
+      "id": 53546,
+      "logo": "https://highlightly.net/soccer/images/leagues/53546.png",
+      "name": "Ligue 2",
+      "seasons": [
+        {
+          "season": 2023
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2025
+        },
+        {
+          "season": 2019
+        },
+        {
+          "season": 2020
+        },
+        {
+          "season": 2022
+        },
+        {
+          "season": 2021
+        }
+      ],
+      "country": {
+        "code": "FR",
+        "name": "France",
+        "logo": "https://highlightly.net/soccer/images/countries/FR.svg"
+      }
+    },
+    {
+      "id": 55248,
+      "logo": "https://highlightly.net/soccer/images/leagues/55248.png",
+      "name": "Feminine Division 1",
+      "seasons": [
+        {
+          "season": 2019
+        },
+        {
+          "season": 2020
+        },
+        {
+          "season": 2023
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2021
+        },
+        {
+          "season": 2025
+        },
+        {
+          "season": 2022
+        }
+      ],
+      "country": {
+        "code": "FR",
+        "name": "France",
+        "logo": "https://highlightly.net/soccer/images/countries/FR.svg"
+      }
+    },
+    {
+      "id": 56099,
+      "logo": "https://highlightly.net/soccer/images/leagues/56099.png",
+      "name": "Coupe de la Ligue",
+      "seasons": [
+        {
+          "season": 2019
+        }
+      ],
+      "country": {
+        "code": "FR",
+        "name": "France",
+        "logo": "https://highlightly.net/soccer/images/countries/FR.svg"
+      }
+    },
+    {
+      "id": 56950,
+      "logo": "https://highlightly.net/soccer/images/leagues/56950.png",
+      "name": "Coupe de France",
+      "seasons": [
+        {
+          "season": 2023
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2019
+        },
+        {
+          "season": 2020
+        },
+        {
+          "season": 2021
+        },
+        {
+          "season": 2022
+        }
+      ],
+      "country": {
+        "code": "FR",
+        "name": "France",
+        "logo": "https://highlightly.net/soccer/images/countries/FR.svg"
+      }
+    },
+    {
+      "id": 61205,
+      "logo": "https://highlightly.net/soccer/images/leagues/61205.png",
+      "name": "Serie A",
+      "seasons": [
+        {
+          "season": 2023
+        },
+        {
+          "season": 2020
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2025
+        },
+        {
+          "season": 2021
+        },
+        {
+          "season": 2022
+        }
+      ],
+      "country": {
+        "code": "BR",
+        "name": "Brazil",
+        "logo": "https://highlightly.net/soccer/images/countries/BR.svg"
+      }
+    },
+    {
+      "id": 62056,
+      "logo": "https://highlightly.net/soccer/images/leagues/62056.png",
+      "name": "Serie B",
+      "seasons": [
+        {
+          "season": 2020
+        },
+        {
+          "season": 2023
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2021
+        },
+        {
+          "season": 2025
+        },
+        {
+          "season": 2022
+        }
+      ],
+      "country": {
+        "code": "BR",
+        "name": "Brazil",
+        "logo": "https://highlightly.net/soccer/images/countries/BR.svg"
+      }
+    },
+    {
+      "id": 62907,
+      "logo": "https://highlightly.net/soccer/images/leagues/62907.png",
+      "name": "Copa Do Brasil",
+      "seasons": [
+        {
+          "season": 2025
+        },
+        {
+          "season": 2021
+        },
+        {
+          "season": 2023
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2020
+        },
+        {
+          "season": 2022
+        }
+      ],
+      "country": {
+        "code": "BR",
+        "name": "Brazil",
+        "logo": "https://highlightly.net/soccer/images/countries/BR.svg"
+      }
+    },
+    {
+      "id": 63758,
+      "logo": "https://highlightly.net/soccer/images/leagues/63758.png",
+      "name": "Brasileiro Women",
+      "seasons": [
+        {
+          "season": 2021
+        },
+        {
+          "season": 2022
+        },
+        {
+          "season": 2023
+        },
+        {
+          "season": 2020
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2025
+        }
+      ],
+      "country": {
+        "code": "BR",
+        "name": "Brazil",
+        "logo": "https://highlightly.net/soccer/images/countries/BR.svg"
+      }
+    },
+    {
+      "id": 64609,
+      "logo": "https://highlightly.net/soccer/images/leagues/64609.png",
+      "name": "Serie C",
+      "seasons": [
+        {
+          "season": 2022
+        },
+        {
+          "season": 2025
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2020
+        },
+        {
+          "season": 2021
+        },
+        {
+          "season": 2023
+        }
+      ],
+      "country": {
+        "code": "BR",
+        "name": "Brazil",
+        "logo": "https://highlightly.net/soccer/images/countries/BR.svg"
+      }
+    },
+    {
+      "id": 65460,
+      "logo": "https://highlightly.net/soccer/images/leagues/65460.png",
+      "name": "Serie D",
+      "seasons": [
+        {
+          "season": 2025
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2022
+        },
+        {
+          "season": 2020
+        },
+        {
+          "season": 2021
+        },
+        {
+          "season": 2023
+        }
+      ],
+      "country": {
+        "code": "BR",
+        "name": "Brazil",
+        "logo": "https://highlightly.net/soccer/images/countries/BR.svg"
+      }
+    },
+    {
+      "id": 66311,
+      "logo": "https://highlightly.net/soccer/images/leagues/66311.png",
+      "name": "Alagoano",
+      "seasons": [
+        {
+          "season": 2025
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2021
+        },
+        {
+          "season": 2023
+        },
+        {
+          "season": 2020
+        },
+        {
+          "season": 2022
+        }
+      ],
+      "country": {
+        "code": "BR",
+        "name": "Brazil",
+        "logo": "https://highlightly.net/soccer/images/countries/BR.svg"
+      }
+    },
+    {
+      "id": 67162,
+      "logo": "https://highlightly.net/soccer/images/leagues/67162.png",
+      "name": "Bundesliga",
+      "seasons": [
+        {
+          "season": 2020
+        },
+        {
+          "season": 2019
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2025
+        },
+        {
+          "season": 2022
+        },
+        {
+          "season": 2023
+        },
+        {
+          "season": 2021
+        }
+      ],
+      "country": {
+        "code": "DE",
+        "name": "Germany",
+        "logo": "https://highlightly.net/soccer/images/countries/DE.svg"
+      }
+    },
+    {
+      "id": 68013,
+      "logo": "https://highlightly.net/soccer/images/leagues/68013.png",
+      "name": "2. Bundesliga",
+      "seasons": [
+        {
+          "season": 2020
+        },
+        {
+          "season": 2021
+        },
+        {
+          "season": 2023
+        },
+        {
+          "season": 2019
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2022
+        },
+        {
+          "season": 2025
+        }
+      ],
+      "country": {
+        "code": "DE",
+        "name": "Germany",
+        "logo": "https://highlightly.net/soccer/images/countries/DE.svg"
+      }
+    },
+    {
+      "id": 68864,
+      "logo": "https://highlightly.net/soccer/images/leagues/68864.png",
+      "name": "3. Liga",
+      "seasons": [
+        {
+          "season": 2020
+        },
+        {
+          "season": 2021
+        },
+        {
+          "season": 2022
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2025
+        },
+        {
+          "season": 2023
+        },
+        {
+          "season": 2019
+        }
+      ],
+      "country": {
+        "code": "DE",
+        "name": "Germany",
+        "logo": "https://highlightly.net/soccer/images/countries/DE.svg"
+      }
+    },
+    {
+      "id": 69715,
+      "logo": "https://highlightly.net/soccer/images/leagues/69715.png",
+      "name": "DFB Pokal",
+      "seasons": [
+        {
+          "season": 2025
+        },
+        {
+          "season": 2020
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2022
+        },
+        {
+          "season": 2023
+        },
+        {
+          "season": 2019
+        },
+        {
+          "season": 2021
+        }
+      ],
+      "country": {
+        "code": "DE",
+        "name": "Germany",
+        "logo": "https://highlightly.net/soccer/images/countries/DE.svg"
+      }
+    },
+    {
+      "id": 70566,
+      "logo": "https://highlightly.net/soccer/images/leagues/70566.png",
+      "name": "Frauen Bundesliga",
+      "seasons": [
+        {
+          "season": 2019
+        },
+        {
+          "season": 2020
+        },
+        {
+          "season": 2021
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2025
+        },
+        {
+          "season": 2023
+        },
+        {
+          "season": 2022
+        }
+      ],
+      "country": {
+        "code": "DE",
+        "name": "Germany",
+        "logo": "https://highlightly.net/soccer/images/countries/DE.svg"
+      }
+    },
+    {
+      "id": 75672,
+      "logo": "https://highlightly.net/soccer/images/leagues/75672.png",
+      "name": "Eredivisie",
+      "seasons": [
+        {
+          "season": 2021
+        },
+        {
+          "season": 2022
+        },
+        {
+          "season": 2019
+        },
+        {
+          "season": 2020
+        },
+        {
+          "season": 2025
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2023
+        }
+      ],
+      "country": {
+        "code": "NL",
+        "name": "Netherlands",
+        "logo": "https://highlightly.net/soccer/images/countries/NL.svg"
+      }
+    },
+    {
+      "id": 76523,
+      "logo": "https://highlightly.net/soccer/images/leagues/76523.png",
+      "name": "Eerste Divisie",
+      "seasons": [
+        {
+          "season": 2021
+        },
+        {
+          "season": 2019
+        },
+        {
+          "season": 2020
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2025
+        },
+        {
+          "season": 2022
+        },
+        {
+          "season": 2023
+        }
+      ],
+      "country": {
+        "code": "NL",
+        "name": "Netherlands",
+        "logo": "https://highlightly.net/soccer/images/countries/NL.svg"
+      }
+    },
+    {
+      "id": 77374,
+      "logo": "https://highlightly.net/soccer/images/leagues/77374.png",
+      "name": "KNVB Beker",
+      "seasons": [
+        {
+          "season": 2024
+        },
+        {
+          "season": 2023
+        },
+        {
+          "season": 2025
+        },
+        {
+          "season": 2019
+        },
+        {
+          "season": 2020
+        },
+        {
+          "season": 2021
+        },
+        {
+          "season": 2022
+        }
+      ],
+      "country": {
+        "code": "NL",
+        "name": "Netherlands",
+        "logo": "https://highlightly.net/soccer/images/countries/NL.svg"
+      }
+    },
+    {
+      "id": 78225,
+      "logo": "https://highlightly.net/soccer/images/leagues/78225.png",
+      "name": "Eredivisie Women",
+      "seasons": [
+        {
+          "season": 2024
+        },
+        {
+          "season": 2025
+        },
+        {
+          "season": 2022
+        },
+        {
+          "season": 2023
+        },
+        {
+          "season": 2020
+        },
+        {
+          "season": 2021
+        }
+      ],
+      "country": {
+        "code": "NL",
+        "name": "Netherlands",
+        "logo": "https://highlightly.net/soccer/images/countries/NL.svg"
+      }
+    },
+    {
+      "id": 79076,
+      "logo": "https://highlightly.net/soccer/images/leagues/79076.png",
+      "name": "Derde Divisie - Saturday",
+      "seasons": [
+        {
+          "season": 2019
+        },
+        {
+          "season": 2021
+        },
+        {
+          "season": 2023
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2020
+        },
+        {
+          "season": 2025
+        },
+        {
+          "season": 2022
+        }
+      ],
+      "country": {
+        "code": "NL",
+        "name": "Netherlands",
+        "logo": "https://highlightly.net/soccer/images/countries/NL.svg"
+      }
+    },
+    {
+      "id": 79927,
+      "logo": "https://highlightly.net/soccer/images/leagues/79927.png",
+      "name": "Derde Divisie - Sunday",
+      "seasons": [
+        {
+          "season": 2020
+        },
+        {
+          "season": 2021
+        },
+        {
+          "season": 2023
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2025
+        },
+        {
+          "season": 2022
+        },
+        {
+          "season": 2019
+        }
+      ],
+      "country": {
+        "code": "NL",
+        "name": "Netherlands",
+        "logo": "https://highlightly.net/soccer/images/countries/NL.svg"
+      }
+    },
+    {
+      "id": 80778,
+      "logo": "https://highlightly.net/soccer/images/leagues/80778.png",
+      "name": "Primeira Liga",
+      "seasons": [
+        {
+          "season": 2020
+        },
+        {
+          "season": 2022
+        },
+        {
+          "season": 2025
+        },
+        {
+          "season": 2019
+        },
+        {
+          "season": 2023
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2021
+        }
+      ],
+      "country": {
+        "code": "PT",
+        "name": "Portugal",
+        "logo": "https://highlightly.net/soccer/images/countries/PT.svg"
+      }
+    },
+    {
+      "id": 81629,
+      "logo": "https://highlightly.net/soccer/images/leagues/81629.png",
+      "name": "Segunda Liga",
+      "seasons": [
+        {
+          "season": 2022
+        },
+        {
+          "season": 2019
+        },
+        {
+          "season": 2025
+        },
+        {
+          "season": 2021
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2020
+        },
+        {
+          "season": 2023
+        }
+      ],
+      "country": {
+        "code": "PT",
+        "name": "Portugal",
+        "logo": "https://highlightly.net/soccer/images/countries/PT.svg"
+      }
+    },
+    {
+      "id": 82480,
+      "logo": "https://highlightly.net/soccer/images/leagues/82480.png",
+      "name": "Taça de Portugal",
+      "seasons": [
+        {
+          "season": 2022
+        },
+        {
+          "season": 2020
+        },
+        {
+          "season": 2023
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2025
+        },
+        {
+          "season": 2019
+        },
+        {
+          "season": 2021
+        }
+      ],
+      "country": {
+        "code": "PT",
+        "name": "Portugal",
+        "logo": "https://highlightly.net/soccer/images/countries/PT.svg"
+      }
+    },
+    {
+      "id": 83331,
+      "logo": "https://highlightly.net/soccer/images/leagues/83331.png",
+      "name": "Taça da Liga",
+      "seasons": [
+        {
+          "season": 2024
+        },
+        {
+          "season": 2020
+        },
+        {
+          "season": 2023
+        },
+        {
+          "season": 2021
+        },
+        {
+          "season": 2022
+        }
+      ],
+      "country": {
+        "code": "PT",
+        "name": "Portugal",
+        "logo": "https://highlightly.net/soccer/images/countries/PT.svg"
+      }
+    },
+    {
+      "id": 84182,
+      "logo": "https://highlightly.net/soccer/images/leagues/84182.png",
+      "name": "J1 League",
+      "seasons": [
+        {
+          "season": 2023
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2020
+        },
+        {
+          "season": 2021
+        },
+        {
+          "season": 2025
+        },
+        {
+          "season": 2022
+        }
+      ],
+      "country": {
+        "code": "JP",
+        "name": "Japan",
+        "logo": "https://highlightly.net/soccer/images/countries/JP.svg"
+      }
+    },
+    {
+      "id": 85033,
+      "logo": "https://highlightly.net/soccer/images/leagues/85033.png",
+      "name": "J2 League",
+      "seasons": [
+        {
+          "season": 2021
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2025
+        },
+        {
+          "season": 2023
+        },
+        {
+          "season": 2020
+        },
+        {
+          "season": 2022
+        }
+      ],
+      "country": {
+        "code": "JP",
+        "name": "Japan",
+        "logo": "https://highlightly.net/soccer/images/countries/JP.svg"
+      }
+    },
+    {
+      "id": 85884,
+      "logo": "https://highlightly.net/soccer/images/leagues/85884.png",
+      "name": "J3 League",
+      "seasons": [
+        {
+          "season": 2020
+        },
+        {
+          "season": 2021
+        },
+        {
+          "season": 2023
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2025
+        },
+        {
+          "season": 2022
+        }
+      ],
+      "country": {
+        "code": "JP",
+        "name": "Japan",
+        "logo": "https://highlightly.net/soccer/images/countries/JP.svg"
+      }
+    },
+    {
+      "id": 86735,
+      "logo": "https://highlightly.net/soccer/images/leagues/86735.png",
+      "name": "J-League Cup",
+      "seasons": [
+        {
+          "season": 2020
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2023
+        },
+        {
+          "season": 2021
+        },
+        {
+          "season": 2025
+        },
+        {
+          "season": 2022
+        }
+      ],
+      "country": {
+        "code": "JP",
+        "name": "Japan",
+        "logo": "https://highlightly.net/soccer/images/countries/JP.svg"
+      }
+    },
+    {
+      "id": 87586,
+      "logo": "https://highlightly.net/soccer/images/leagues/87586.png",
+      "name": "Emperor Cup",
+      "seasons": [
+        {
+          "season": 2025
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2020
+        },
+        {
+          "season": 2021
+        },
+        {
+          "season": 2023
+        },
+        {
+          "season": 2022
+        }
+      ],
+      "country": {
+        "code": "JP",
+        "name": "Japan",
+        "logo": "https://highlightly.net/soccer/images/countries/JP.svg"
+      }
+    },
+    {
+      "id": 88437,
+      "logo": "https://highlightly.net/soccer/images/leagues/88437.png",
+      "name": "Eliteserien",
+      "seasons": [
+        {
+          "season": 2020
+        },
+        {
+          "season": 2023
+        },
+        {
+          "season": 2025
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2021
+        },
+        {
+          "season": 2022
+        }
+      ],
+      "country": {
+        "code": "NO",
+        "name": "Norway",
+        "logo": "https://highlightly.net/soccer/images/countries/NO.svg"
+      }
+    },
+    {
+      "id": 89288,
+      "logo": "https://highlightly.net/soccer/images/leagues/89288.png",
+      "name": "1. Division",
+      "seasons": [
+        {
+          "season": 2025
+        },
+        {
+          "season": 2020
+        },
+        {
+          "season": 2023
+        },
+        {
+          "season": 2021
+        },
+        {
+          "season": 2022
+        },
+        {
+          "season": 2024
+        }
+      ],
+      "country": {
+        "code": "NO",
+        "name": "Norway",
+        "logo": "https://highlightly.net/soccer/images/countries/NO.svg"
+      }
+    },
+    {
+      "id": 90139,
+      "logo": "https://highlightly.net/soccer/images/leagues/90139.png",
+      "name": "NM Cupen",
+      "seasons": [
+        {
+          "season": 2024
+        },
+        {
+          "season": 2025
+        },
+        {
+          "season": 2026
+        },
+        {
+          "season": 2023
+        },
+        {
+          "season": 2021
+        },
+        {
+          "season": 2022
+        }
+      ],
+      "country": {
+        "code": "NO",
+        "name": "Norway",
+        "logo": "https://highlightly.net/soccer/images/countries/NO.svg"
+      }
+    },
+    {
+      "id": 90990,
+      "logo": "https://highlightly.net/soccer/images/leagues/90990.png",
+      "name": "Ekstraklasa",
+      "seasons": [
+        {
+          "season": 2022
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2025
+        },
+        {
+          "season": 2020
+        },
+        {
+          "season": 2021
+        },
+        {
+          "season": 2023
+        },
+        {
+          "season": 2019
+        }
+      ],
+      "country": {
+        "code": "PL",
+        "name": "Poland",
+        "logo": "https://highlightly.net/soccer/images/countries/PL.svg"
+      }
+    },
+    {
+      "id": 91841,
+      "logo": "https://highlightly.net/soccer/images/leagues/91841.png",
+      "name": "I Liga",
+      "seasons": [
+        {
+          "season": 2023
+        },
+        {
+          "season": 2022
+        },
+        {
+          "season": 2019
+        },
+        {
+          "season": 2020
+        },
+        {
+          "season": 2025
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2021
+        }
+      ],
+      "country": {
+        "code": "PL",
+        "name": "Poland",
+        "logo": "https://highlightly.net/soccer/images/countries/PL.svg"
+      }
+    },
+    {
+      "id": 92692,
+      "logo": "https://highlightly.net/soccer/images/leagues/92692.png",
+      "name": "Cup",
+      "seasons": [
+        {
+          "season": 2022
+        },
+        {
+          "season": 2023
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2025
+        },
+        {
+          "season": 2019
+        },
+        {
+          "season": 2020
+        },
+        {
+          "season": 2021
+        }
+      ],
+      "country": {
+        "code": "PL",
+        "name": "Poland",
+        "logo": "https://highlightly.net/soccer/images/countries/PL.svg"
+      }
+    },
+    {
+      "id": 94394,
+      "logo": "https://highlightly.net/soccer/images/leagues/94394.png",
+      "name": "Premier League",
+      "seasons": [
+        {
+          "season": 2023
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2025
+        },
+        {
+          "season": 2019
+        },
+        {
+          "season": 2020
+        },
+        {
+          "season": 2021
+        },
+        {
+          "season": 2022
+        }
+      ],
+      "country": {
+        "code": "WLS",
+        "name": "Wales",
+        "logo": "https://highlightly.net/soccer/images/countries/WLS.svg"
+      }
+    },
+    {
+      "id": 95245,
+      "logo": "https://highlightly.net/soccer/images/leagues/95245.png",
+      "name": "FAW Championship",
+      "seasons": [
+        {
+          "season": 2023
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2025
+        },
+        {
+          "season": 2019
+        },
+        {
+          "season": 2021
+        },
+        {
+          "season": 2022
+        }
+      ],
+      "country": {
+        "code": "WLS",
+        "name": "Wales",
+        "logo": "https://highlightly.net/soccer/images/countries/WLS.svg"
+      }
+    },
+    {
+      "id": 96096,
+      "logo": "https://highlightly.net/soccer/images/leagues/96096.png",
+      "name": "Welsh Cup",
+      "seasons": [
+        {
+          "season": 2025
+        },
+        {
+          "season": 2023
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2021
+        },
+        {
+          "season": 2022
+        }
+      ],
+      "country": {
+        "code": "WLS",
+        "name": "Wales",
+        "logo": "https://highlightly.net/soccer/images/countries/WLS.svg"
+      }
+    },
+    {
+      "id": 96947,
+      "logo": "https://highlightly.net/soccer/images/leagues/96947.png",
+      "name": "Allsvenskan",
+      "seasons": [
+        {
+          "season": 2023
+        },
+        {
+          "season": 2020
+        },
+        {
+          "season": 2025
+        },
+        {
+          "season": 2021
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2022
+        }
+      ],
+      "country": {
+        "code": "SE",
+        "name": "Sweden",
+        "logo": "https://highlightly.net/soccer/images/countries/SE.svg"
+      }
+    },
+    {
+      "id": 97798,
+      "logo": "https://highlightly.net/soccer/images/leagues/97798.png",
+      "name": "Superettan",
+      "seasons": [
+        {
+          "season": 2022
+        },
+        {
+          "season": 2023
+        },
+        {
+          "season": 2020
+        },
+        {
+          "season": 2025
+        },
+        {
+          "season": 2021
+        },
+        {
+          "season": 2024
+        }
+      ],
+      "country": {
+        "code": "SE",
+        "name": "Sweden",
+        "logo": "https://highlightly.net/soccer/images/countries/SE.svg"
+      }
+    },
+    {
+      "id": 98649,
+      "logo": "https://highlightly.net/soccer/images/leagues/98649.png",
+      "name": "Svenska Cupen",
+      "seasons": [
+        {
+          "season": 2024
+        },
+        {
+          "season": 2025
+        },
+        {
+          "season": 2021
+        },
+        {
+          "season": 2023
+        },
+        {
+          "season": 2019
+        },
+        {
+          "season": 2020
+        },
+        {
+          "season": 2022
+        }
+      ],
+      "country": {
+        "code": "SE",
+        "name": "Sweden",
+        "logo": "https://highlightly.net/soccer/images/countries/SE.svg"
+      }
+    },
+    {
+      "id": 99500,
+      "logo": "https://highlightly.net/soccer/images/leagues/99500.png",
+      "name": "Premier League",
+      "seasons": [
+        {
+          "season": 2024
+        },
+        {
+          "season": 2020
+        },
+        {
+          "season": 2023
+        },
+        {
+          "season": 2021
+        },
+        {
+          "season": 2025
+        },
+        {
+          "season": 2022
+        }
+      ],
+      "country": {
+        "code": "BY",
+        "name": "Belarus",
+        "logo": "https://highlightly.net/soccer/images/countries/BY.svg"
+      }
+    },
+    {
+      "id": 100351,
+      "logo": "https://highlightly.net/soccer/images/leagues/100351.png",
+      "name": "1. Division",
+      "seasons": [
+        {
+          "season": 2021
+        },
+        {
+          "season": 2023
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2020
+        },
+        {
+          "season": 2025
+        },
+        {
+          "season": 2022
+        }
+      ],
+      "country": {
+        "code": "BY",
+        "name": "Belarus",
+        "logo": "https://highlightly.net/soccer/images/countries/BY.svg"
+      }
+    },
+    {
+      "id": 101202,
+      "logo": "https://highlightly.net/soccer/images/leagues/101202.png",
+      "name": "2. Division",
+      "seasons": [
+        {
+          "season": 2020
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2021
+        },
+        {
+          "season": 2023
+        },
+        {
+          "season": 2022
+        }
+      ],
+      "country": {
+        "code": "BY",
+        "name": "Belarus",
+        "logo": "https://highlightly.net/soccer/images/countries/BY.svg"
+      }
+    },
+    {
+      "id": 102053,
+      "logo": "https://highlightly.net/soccer/images/leagues/102053.png",
+      "name": "Superliga",
+      "seasons": [
+        {
+          "season": 2023
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2025
+        },
+        {
+          "season": 2019
+        },
+        {
+          "season": 2020
+        },
+        {
+          "season": 2021
+        },
+        {
+          "season": 2022
+        }
+      ],
+      "country": {
+        "code": "DK",
+        "name": "Denmark",
+        "logo": "https://highlightly.net/soccer/images/countries/DK.svg"
+      }
+    },
+    {
+      "id": 102904,
+      "logo": "https://highlightly.net/soccer/images/leagues/102904.png",
+      "name": "1. Division",
+      "seasons": [
+        {
+          "season": 2019
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2025
+        },
+        {
+          "season": 2023
+        },
+        {
+          "season": 2020
+        },
+        {
+          "season": 2021
+        },
+        {
+          "season": 2022
+        }
+      ],
+      "country": {
+        "code": "DK",
+        "name": "Denmark",
+        "logo": "https://highlightly.net/soccer/images/countries/DK.svg"
+      }
+    },
+    {
+      "id": 103755,
+      "logo": "https://highlightly.net/soccer/images/leagues/103755.png",
+      "name": "DBU Pokalen",
+      "seasons": [
+        {
+          "season": 2025
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2022
+        },
+        {
+          "season": 2023
+        },
+        {
+          "season": 2019
+        },
+        {
+          "season": 2020
+        },
+        {
+          "season": 2021
+        }
+      ],
+      "country": {
+        "code": "DK",
+        "name": "Denmark",
+        "logo": "https://highlightly.net/soccer/images/countries/DK.svg"
+      }
+    },
+    {
+      "id": 104606,
+      "logo": "https://highlightly.net/soccer/images/leagues/104606.png",
+      "name": "2nd Division - Group 1",
+      "seasons": [
+        {
+          "season": 2023
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2020
+        },
+        {
+          "season": 2025
+        },
+        {
+          "season": 2022
+        },
+        {
+          "season": 2021
+        }
+      ],
+      "country": {
+        "code": "DK",
+        "name": "Denmark",
+        "logo": "https://highlightly.net/soccer/images/countries/DK.svg"
+      }
+    },
+    {
+      "id": 109712,
+      "logo": "https://highlightly.net/soccer/images/leagues/109712.png",
+      "name": "Liga Profesional Argentina",
+      "seasons": [
+        {
+          "season": 2020
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2021
+        },
+        {
+          "season": 2025
+        },
+        {
+          "season": 2023
+        },
+        {
+          "season": 2022
+        }
+      ],
+      "country": {
+        "code": "AR",
+        "name": "Argentina",
+        "logo": "https://highlightly.net/soccer/images/countries/AR.svg"
+      }
+    },
+    {
+      "id": 110563,
+      "logo": "https://highlightly.net/soccer/images/leagues/110563.png",
+      "name": "Primera Nacional",
+      "seasons": [
+        {
+          "season": 2025
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2020
+        },
+        {
+          "season": 2021
+        },
+        {
+          "season": 2023
+        },
+        {
+          "season": 2019
+        },
+        {
+          "season": 2022
+        }
+      ],
+      "country": {
+        "code": "AR",
+        "name": "Argentina",
+        "logo": "https://highlightly.net/soccer/images/countries/AR.svg"
+      }
+    },
+    {
+      "id": 111414,
+      "logo": "https://highlightly.net/soccer/images/leagues/111414.png",
+      "name": "Copa Argentina",
+      "seasons": [
+        {
+          "season": 2024
+        },
+        {
+          "season": 2020
+        },
+        {
+          "season": 2025
+        },
+        {
+          "season": 2023
+        },
+        {
+          "season": 2022
+        }
+      ],
+      "country": {
+        "code": "AR",
+        "name": "Argentina",
+        "logo": "https://highlightly.net/soccer/images/countries/AR.svg"
+      }
+    }
+  ],
+  "plan": {
+    "tier": "PRO",
+    "message": "All data available with current plan."
+  },
+  "pagination": {
+    "totalCount": 868,
+    "offset": 0,
+    "limit": 100
+  }
+}

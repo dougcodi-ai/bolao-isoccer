@@ -1,0 +1,584 @@
+{
+  "timestamp": "2025-09-29T18:58:05.841Z",
+  "source": "sport-highlights-api",
+  "leagues": {
+    "serie-a": {
+      "id": 61205,
+      "name": "Brasileirão Série A",
+      "season": 2025,
+      "teams": [
+        {
+          "id": 904546,
+          "name": "Atletico-MG",
+          "shortName": "Atletico-MG",
+          "logo": "https://highlightly.net/soccer/images/teams/904546.png",
+          "source": "highlightly"
+        },
+        {
+          "id": 101202,
+          "name": "Bahia",
+          "shortName": "Bahia",
+          "logo": "https://highlightly.net/soccer/images/teams/101202.png",
+          "source": "highlightly"
+        },
+        {
+          "id": 102904,
+          "name": "Botafogo",
+          "shortName": "Botafogo",
+          "logo": "https://highlightly.net/soccer/images/teams/102904.png",
+          "source": "highlightly"
+        },
+        {
+          "id": 110563,
+          "name": "Ceara",
+          "shortName": "Ceara",
+          "logo": "https://highlightly.net/soccer/images/teams/110563.png",
+          "source": "highlightly"
+        },
+        {
+          "id": 112265,
+          "name": "Corinthians",
+          "shortName": "Corinthians",
+          "logo": "https://highlightly.net/soccer/images/teams/112265.png",
+          "source": "highlightly"
+        },
+        {
+          "id": 115669,
+          "name": "Cruzeiro",
+          "shortName": "Cruzeiro",
+          "logo": "https://highlightly.net/soccer/images/teams/115669.png",
+          "source": "highlightly"
+        },
+        {
+          "id": 108861,
+          "name": "Flamengo",
+          "shortName": "Flamengo",
+          "logo": "https://highlightly.net/soccer/images/teams/108861.png",
+          "source": "highlightly"
+        },
+        {
+          "id": 106308,
+          "name": "Fluminense",
+          "shortName": "Fluminense",
+          "logo": "https://highlightly.net/soccer/images/teams/106308.png",
+          "source": "highlightly"
+        },
+        {
+          "id": 131838,
+          "name": "Fortaleza EC",
+          "shortName": "Fortaleza EC",
+          "logo": "https://highlightly.net/soccer/images/teams/131838.png",
+          "source": "highlightly"
+        },
+        {
+          "id": 111414,
+          "name": "Gremio",
+          "shortName": "Gremio",
+          "logo": "https://highlightly.net/soccer/images/teams/111414.png",
+          "source": "highlightly"
+        },
+        {
+          "id": 102053,
+          "name": "Internacional",
+          "shortName": "Internacional",
+          "logo": "https://highlightly.net/soccer/images/teams/102053.png",
+          "source": "highlightly"
+        },
+        {
+          "id": 130136,
+          "name": "Juventude",
+          "shortName": "Juventude",
+          "logo": "https://highlightly.net/soccer/images/teams/130136.png",
+          "source": "highlightly"
+        },
+        {
+          "id": 6679432,
+          "name": "Mirassol",
+          "shortName": "Mirassol",
+          "logo": "https://highlightly.net/soccer/images/teams/6679432.png",
+          "source": "highlightly"
+        },
+        {
+          "id": 103755,
+          "name": "Palmeiras",
+          "shortName": "Palmeiras",
+          "logo": "https://highlightly.net/soccer/images/teams/103755.png",
+          "source": "highlightly"
+        },
+        {
+          "id": 676478,
+          "name": "RB Bragantino",
+          "shortName": "RB Bragantino",
+          "logo": "https://highlightly.net/soccer/images/teams/676478.png",
+          "source": "highlightly"
+        },
+        {
+          "id": 109712,
+          "name": "Santos",
+          "shortName": "Santos",
+          "logo": "https://highlightly.net/soccer/images/teams/109712.png",
+          "source": "highlightly"
+        },
+        {
+          "id": 108010,
+          "name": "Sao Paulo",
+          "shortName": "Sao Paulo",
+          "logo": "https://highlightly.net/soccer/images/teams/108010.png",
+          "source": "highlightly"
+        },
+        {
+          "id": 105457,
+          "name": "Sport Recife",
+          "shortName": "Sport Recife",
+          "logo": "https://highlightly.net/soccer/images/teams/105457.png",
+          "source": "highlightly"
+        },
+        {
+          "id": 113967,
+          "name": "Vasco DA Gama",
+          "shortName": "Vasco DA Gama",
+          "logo": "https://highlightly.net/soccer/images/teams/113967.png",
+          "source": "highlightly"
+        },
+        {
+          "id": 116520,
+          "name": "Vitoria",
+          "shortName": "Vitoria",
+          "logo": "https://highlightly.net/soccer/images/teams/116520.png",
+          "source": "highlightly"
+        }
+      ]
+    },
+    "serie-b": {
+      "id": 62056,
+      "name": "Brasileirão Série B",
+      "season": 2025,
+      "teams": [
+        {
+          "id": 9244346,
+          "name": "Amazonas",
+          "shortName": "Amazonas",
+          "logo": "https://highlightly.net/soccer/images/teams/9244346.png",
+          "source": "highlightly"
+        },
+        {
+          "id": 107159,
+          "name": "America Mineiro",
+          "shortName": "America Mineiro",
+          "logo": "https://highlightly.net/soccer/images/teams/107159.png",
+          "source": "highlightly"
+        },
+        {
+          "id": 11893509,
+          "name": "Athletic Club",
+          "shortName": "Athletic Club",
+          "logo": "https://highlightly.net/soccer/images/teams/11893509.png",
+          "source": "highlightly"
+        },
+        {
+          "id": 114818,
+          "name": "Athletico Paranaense",
+          "shortName": "Athletico Paranaense",
+          "logo": "https://highlightly.net/soccer/images/teams/114818.png",
+          "source": "highlightly"
+        },
+        {
+          "id": 123328,
+          "name": "Atletico Goianiense",
+          "shortName": "Atletico Goianiense",
+          "logo": "https://highlightly.net/soccer/images/teams/123328.png",
+          "source": "highlightly"
+        },
+        {
+          "id": 124179,
+          "name": "Avai",
+          "shortName": "Avai",
+          "logo": "https://highlightly.net/soccer/images/teams/124179.png",
+          "source": "highlightly"
+        },
+        {
+          "id": 2228702,
+          "name": "Botafogo SP",
+          "shortName": "Botafogo SP",
+          "logo": "https://highlightly.net/soccer/images/teams/2228702.png",
+          "source": "highlightly"
+        },
+        {
+          "id": 113116,
+          "name": "Chapecoense-sc",
+          "shortName": "Chapecoense-sc",
+          "logo": "https://highlightly.net/soccer/images/teams/113116.png",
+          "source": "highlightly"
+        },
+        {
+          "id": 125881,
+          "name": "Coritiba",
+          "shortName": "Coritiba",
+          "logo": "https://highlightly.net/soccer/images/teams/125881.png",
+          "source": "highlightly"
+        },
+        {
+          "id": 125030,
+          "name": "CRB",
+          "shortName": "CRB",
+          "logo": "https://highlightly.net/soccer/images/teams/125030.png",
+          "source": "highlightly"
+        },
+        {
+          "id": 119924,
+          "name": "Criciuma",
+          "shortName": "Criciuma",
+          "logo": "https://highlightly.net/soccer/images/teams/119924.png",
+          "source": "highlightly"
+        },
+        {
+          "id": 1016027,
+          "name": "Cuiaba",
+          "shortName": "Cuiaba",
+          "logo": "https://highlightly.net/soccer/images/teams/1016027.png",
+          "source": "highlightly"
+        },
+        {
+          "id": 6660710,
+          "name": "Ferroviária",
+          "shortName": "Ferroviária",
+          "logo": "https://highlightly.net/soccer/images/teams/6660710.png",
+          "source": "highlightly"
+        },
+        {
+          "id": 129285,
+          "name": "Goias",
+          "shortName": "Goias",
+          "logo": "https://highlightly.net/soccer/images/teams/129285.png",
+          "source": "highlightly"
+        },
+        {
+          "id": 6667518,
+          "name": "Novorizontino",
+          "shortName": "Novorizontino",
+          "logo": "https://highlightly.net/soccer/images/teams/6667518.png",
+          "source": "highlightly"
+        },
+        {
+          "id": 1041557,
+          "name": "Operario-PR",
+          "shortName": "Operario-PR",
+          "logo": "https://highlightly.net/soccer/images/teams/1041557.png",
+          "source": "highlightly"
+        },
+        {
+          "id": 127583,
+          "name": "Paysandu",
+          "shortName": "Paysandu",
+          "logo": "https://highlightly.net/soccer/images/teams/127583.png",
+          "source": "highlightly"
+        },
+        {
+          "id": 1020282,
+          "name": "remo",
+          "shortName": "remo",
+          "logo": "https://highlightly.net/soccer/images/teams/1020282.png",
+          "source": "highlightly"
+        },
+        {
+          "id": 121626,
+          "name": "Vila Nova",
+          "shortName": "Vila Nova",
+          "logo": "https://highlightly.net/soccer/images/teams/121626.png",
+          "source": "highlightly"
+        },
+        {
+          "id": 6650498,
+          "name": "Volta Redonda",
+          "shortName": "Volta Redonda",
+          "logo": "https://highlightly.net/soccer/images/teams/6650498.png",
+          "source": "highlightly"
+        }
+      ]
+    }
+  },
+  "allTeams": [
+    {
+      "id": 9244346,
+      "name": "Amazonas",
+      "shortName": "Amazonas",
+      "logo": "https://highlightly.net/soccer/images/teams/9244346.png",
+      "source": "highlightly"
+    },
+    {
+      "id": 107159,
+      "name": "America Mineiro",
+      "shortName": "America Mineiro",
+      "logo": "https://highlightly.net/soccer/images/teams/107159.png",
+      "source": "highlightly"
+    },
+    {
+      "id": 11893509,
+      "name": "Athletic Club",
+      "shortName": "Athletic Club",
+      "logo": "https://highlightly.net/soccer/images/teams/11893509.png",
+      "source": "highlightly"
+    },
+    {
+      "id": 114818,
+      "name": "Athletico Paranaense",
+      "shortName": "Athletico Paranaense",
+      "logo": "https://highlightly.net/soccer/images/teams/114818.png",
+      "source": "highlightly"
+    },
+    {
+      "id": 123328,
+      "name": "Atletico Goianiense",
+      "shortName": "Atletico Goianiense",
+      "logo": "https://highlightly.net/soccer/images/teams/123328.png",
+      "source": "highlightly"
+    },
+    {
+      "id": 904546,
+      "name": "Atletico-MG",
+      "shortName": "Atletico-MG",
+      "logo": "https://highlightly.net/soccer/images/teams/904546.png",
+      "source": "highlightly"
+    },
+    {
+      "id": 124179,
+      "name": "Avai",
+      "shortName": "Avai",
+      "logo": "https://highlightly.net/soccer/images/teams/124179.png",
+      "source": "highlightly"
+    },
+    {
+      "id": 101202,
+      "name": "Bahia",
+      "shortName": "Bahia",
+      "logo": "https://highlightly.net/soccer/images/teams/101202.png",
+      "source": "highlightly"
+    },
+    {
+      "id": 102904,
+      "name": "Botafogo",
+      "shortName": "Botafogo",
+      "logo": "https://highlightly.net/soccer/images/teams/102904.png",
+      "source": "highlightly"
+    },
+    {
+      "id": 2228702,
+      "name": "Botafogo SP",
+      "shortName": "Botafogo SP",
+      "logo": "https://highlightly.net/soccer/images/teams/2228702.png",
+      "source": "highlightly"
+    },
+    {
+      "id": 110563,
+      "name": "Ceara",
+      "shortName": "Ceara",
+      "logo": "https://highlightly.net/soccer/images/teams/110563.png",
+      "source": "highlightly"
+    },
+    {
+      "id": 113116,
+      "name": "Chapecoense-sc",
+      "shortName": "Chapecoense-sc",
+      "logo": "https://highlightly.net/soccer/images/teams/113116.png",
+      "source": "highlightly"
+    },
+    {
+      "id": 112265,
+      "name": "Corinthians",
+      "shortName": "Corinthians",
+      "logo": "https://highlightly.net/soccer/images/teams/112265.png",
+      "source": "highlightly"
+    },
+    {
+      "id": 125881,
+      "name": "Coritiba",
+      "shortName": "Coritiba",
+      "logo": "https://highlightly.net/soccer/images/teams/125881.png",
+      "source": "highlightly"
+    },
+    {
+      "id": 125030,
+      "name": "CRB",
+      "shortName": "CRB",
+      "logo": "https://highlightly.net/soccer/images/teams/125030.png",
+      "source": "highlightly"
+    },
+    {
+      "id": 119924,
+      "name": "Criciuma",
+      "shortName": "Criciuma",
+      "logo": "https://highlightly.net/soccer/images/teams/119924.png",
+      "source": "highlightly"
+    },
+    {
+      "id": 115669,
+      "name": "Cruzeiro",
+      "shortName": "Cruzeiro",
+      "logo": "https://highlightly.net/soccer/images/teams/115669.png",
+      "source": "highlightly"
+    },
+    {
+      "id": 1016027,
+      "name": "Cuiaba",
+      "shortName": "Cuiaba",
+      "logo": "https://highlightly.net/soccer/images/teams/1016027.png",
+      "source": "highlightly"
+    },
+    {
+      "id": 6660710,
+      "name": "Ferroviária",
+      "shortName": "Ferroviária",
+      "logo": "https://highlightly.net/soccer/images/teams/6660710.png",
+      "source": "highlightly"
+    },
+    {
+      "id": 108861,
+      "name": "Flamengo",
+      "shortName": "Flamengo",
+      "logo": "https://highlightly.net/soccer/images/teams/108861.png",
+      "source": "highlightly"
+    },
+    {
+      "id": 106308,
+      "name": "Fluminense",
+      "shortName": "Fluminense",
+      "logo": "https://highlightly.net/soccer/images/teams/106308.png",
+      "source": "highlightly"
+    },
+    {
+      "id": 131838,
+      "name": "Fortaleza EC",
+      "shortName": "Fortaleza EC",
+      "logo": "https://highlightly.net/soccer/images/teams/131838.png",
+      "source": "highlightly"
+    },
+    {
+      "id": 129285,
+      "name": "Goias",
+      "shortName": "Goias",
+      "logo": "https://highlightly.net/soccer/images/teams/129285.png",
+      "source": "highlightly"
+    },
+    {
+      "id": 111414,
+      "name": "Gremio",
+      "shortName": "Gremio",
+      "logo": "https://highlightly.net/soccer/images/teams/111414.png",
+      "source": "highlightly"
+    },
+    {
+      "id": 102053,
+      "name": "Internacional",
+      "shortName": "Internacional",
+      "logo": "https://highlightly.net/soccer/images/teams/102053.png",
+      "source": "highlightly"
+    },
+    {
+      "id": 130136,
+      "name": "Juventude",
+      "shortName": "Juventude",
+      "logo": "https://highlightly.net/soccer/images/teams/130136.png",
+      "source": "highlightly"
+    },
+    {
+      "id": 6679432,
+      "name": "Mirassol",
+      "shortName": "Mirassol",
+      "logo": "https://highlightly.net/soccer/images/teams/6679432.png",
+      "source": "highlightly"
+    },
+    {
+      "id": 6667518,
+      "name": "Novorizontino",
+      "shortName": "Novorizontino",
+      "logo": "https://highlightly.net/soccer/images/teams/6667518.png",
+      "source": "highlightly"
+    },
+    {
+      "id": 1041557,
+      "name": "Operario-PR",
+      "shortName": "Operario-PR",
+      "logo": "https://highlightly.net/soccer/images/teams/1041557.png",
+      "source": "highlightly"
+    },
+    {
+      "id": 103755,
+      "name": "Palmeiras",
+      "shortName": "Palmeiras",
+      "logo": "https://highlightly.net/soccer/images/teams/103755.png",
+      "source": "highlightly"
+    },
+    {
+      "id": 127583,
+      "name": "Paysandu",
+      "shortName": "Paysandu",
+      "logo": "https://highlightly.net/soccer/images/teams/127583.png",
+      "source": "highlightly"
+    },
+    {
+      "id": 676478,
+      "name": "RB Bragantino",
+      "shortName": "RB Bragantino",
+      "logo": "https://highlightly.net/soccer/images/teams/676478.png",
+      "source": "highlightly"
+    },
+    {
+      "id": 1020282,
+      "name": "remo",
+      "shortName": "remo",
+      "logo": "https://highlightly.net/soccer/images/teams/1020282.png",
+      "source": "highlightly"
+    },
+    {
+      "id": 109712,
+      "name": "Santos",
+      "shortName": "Santos",
+      "logo": "https://highlightly.net/soccer/images/teams/109712.png",
+      "source": "highlightly"
+    },
+    {
+      "id": 108010,
+      "name": "Sao Paulo",
+      "shortName": "Sao Paulo",
+      "logo": "https://highlightly.net/soccer/images/teams/108010.png",
+      "source": "highlightly"
+    },
+    {
+      "id": 105457,
+      "name": "Sport Recife",
+      "shortName": "Sport Recife",
+      "logo": "https://highlightly.net/soccer/images/teams/105457.png",
+      "source": "highlightly"
+    },
+    {
+      "id": 113967,
+      "name": "Vasco DA Gama",
+      "shortName": "Vasco DA Gama",
+      "logo": "https://highlightly.net/soccer/images/teams/113967.png",
+      "source": "highlightly"
+    },
+    {
+      "id": 121626,
+      "name": "Vila Nova",
+      "shortName": "Vila Nova",
+      "logo": "https://highlightly.net/soccer/images/teams/121626.png",
+      "source": "highlightly"
+    },
+    {
+      "id": 116520,
+      "name": "Vitoria",
+      "shortName": "Vitoria",
+      "logo": "https://highlightly.net/soccer/images/teams/116520.png",
+      "source": "highlightly"
+    },
+    {
+      "id": 6650498,
+      "name": "Volta Redonda",
+      "shortName": "Volta Redonda",
+      "logo": "https://highlightly.net/soccer/images/teams/6650498.png",
+      "source": "highlightly"
+    }
+  ],
+  "totalTeams": 40,
+  "logoMappings": 167
+}

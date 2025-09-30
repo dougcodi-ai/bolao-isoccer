@@ -1,0 +1,232 @@
+{
+  "timestamp": "2025-09-29T22:21:45.929Z",
+  "total_leagues": 50,
+  "relevant_leagues": [
+    {
+      "id": 61205,
+      "logo": "https://highlightly.net/soccer/images/leagues/61205.png",
+      "name": "Serie A",
+      "seasons": [
+        {
+          "season": 2023
+        },
+        {
+          "season": 2020
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2025
+        },
+        {
+          "season": 2021
+        },
+        {
+          "season": 2022
+        }
+      ],
+      "country": {
+        "code": "BR",
+        "name": "Brazil",
+        "logo": "https://highlightly.net/soccer/images/countries/BR.svg"
+      }
+    },
+    {
+      "id": 62056,
+      "logo": "https://highlightly.net/soccer/images/leagues/62056.png",
+      "name": "Serie B",
+      "seasons": [
+        {
+          "season": 2020
+        },
+        {
+          "season": 2025
+        },
+        {
+          "season": 2023
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2021
+        },
+        {
+          "season": 2022
+        }
+      ],
+      "country": {
+        "code": "BR",
+        "name": "Brazil",
+        "logo": "https://highlightly.net/soccer/images/countries/BR.svg"
+      }
+    },
+    {
+      "id": 62907,
+      "logo": "https://highlightly.net/soccer/images/leagues/62907.png",
+      "name": "Copa Do Brasil",
+      "seasons": [
+        {
+          "season": 2025
+        },
+        {
+          "season": 2021
+        },
+        {
+          "season": 2023
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2020
+        },
+        {
+          "season": 2022
+        }
+      ],
+      "country": {
+        "code": "BR",
+        "name": "Brazil",
+        "logo": "https://highlightly.net/soccer/images/countries/BR.svg"
+      }
+    },
+    {
+      "id": 63758,
+      "logo": "https://highlightly.net/soccer/images/leagues/63758.png",
+      "name": "Brasileiro Women",
+      "seasons": [
+        {
+          "season": 2021
+        },
+        {
+          "season": 2022
+        },
+        {
+          "season": 2023
+        },
+        {
+          "season": 2020
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2025
+        }
+      ],
+      "country": {
+        "code": "BR",
+        "name": "Brazil",
+        "logo": "https://highlightly.net/soccer/images/countries/BR.svg"
+      }
+    },
+    {
+      "id": 525851,
+      "logo": "https://highlightly.net/soccer/images/leagues/525851.png",
+      "name": "Copa do Brasil U20",
+      "seasons": [
+        {
+          "season": 2024
+        },
+        {
+          "season": 2023
+        },
+        {
+          "season": 2021
+        },
+        {
+          "season": 2020
+        },
+        {
+          "season": 2022
+        }
+      ],
+      "country": {
+        "code": "BR",
+        "name": "Brazil",
+        "logo": "https://highlightly.net/soccer/images/countries/BR.svg"
+      }
+    },
+    {
+      "id": 538616,
+      "logo": "https://highlightly.net/soccer/images/leagues/538616.png",
+      "name": "Supercopa do Brasil",
+      "seasons": [
+        {
+          "season": 2024
+        },
+        {
+          "season": 2021
+        },
+        {
+          "season": 2025
+        },
+        {
+          "season": 2023
+        },
+        {
+          "season": 2022
+        }
+      ],
+      "country": {
+        "code": "BR",
+        "name": "Brazil",
+        "logo": "https://highlightly.net/soccer/images/countries/BR.svg"
+      }
+    },
+    {
+      "id": 630524,
+      "logo": "https://highlightly.net/soccer/images/leagues/630524.png",
+      "name": "CBF Brasileiro U20",
+      "seasons": [
+        {
+          "season": 2022
+        },
+        {
+          "season": 2023
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2025
+        },
+        {
+          "season": 2021
+        }
+      ],
+      "country": {
+        "code": "BR",
+        "name": "Brazil",
+        "logo": "https://highlightly.net/soccer/images/countries/BR.svg"
+      }
+    },
+    {
+      "id": 631375,
+      "logo": "https://highlightly.net/soccer/images/leagues/631375.png",
+      "name": "Brasileiro de Aspirantes",
+      "seasons": [
+        {
+          "season": 2021
+        },
+        {
+          "season": 2022
+        },
+        {
+          "season": 2024
+        },
+        {
+          "season": 2020
+        }
+      ],
+      "country": {
+        "code": "BR",
+        "name": "Brazil",
+        "logo": "https://highlightly.net/soccer/images/countries/BR.svg"
+      }
+    }
+  ],
+  "api_status": "success"
+}

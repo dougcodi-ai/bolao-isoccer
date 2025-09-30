@@ -1,0 +1,280 @@
+/* Global styles */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* Design System Tokens (default: dark) */
+  --bg: #070707; /* fundo principal */
+  --surface: #0F0F10; /* cards/containers */
+  --text: #FFFFFF; /* texto principal */
+  --muted: #BDBDBD; /* texto secundário */
+  --primary: #E11D1D; /* vermelho principal (CTA) */
+  --accent: #FF6B6B; /* hover/sombra */
+  --success: #00B894;
+  --danger: #ef4444;
+  
+  /* Tipografia Tokens */
+  --font-h1-desktop: 3rem; /* 48px */
+  --font-h1-mobile: 2rem; /* 32px */
+  --font-h2: 2rem; /* 32px */
+  --font-h3: 1.25rem; /* 20px */
+  --font-body: 1rem; /* 16px */
+  --font-button: 1rem; /* 16px */
+  --line-height-heading: 1.2;
+  --line-height-body: 1.5;
+  
+  /* Espaçamento & Grid */
+  --container-max-width: 1200px;
+  --gutter: 24px;
+  --padding-mobile: 24px;
+  --padding-desktop: 32px;
+  --border-radius-card: 12px;
+  --border-radius-button: 8px;
+  
+  /* Controles */
+  --control-h: 42px;
+  --control-px: 0.75rem;
+  --control-py: 0.5rem;
+}
+
+/* Light theme: alto contraste e visibilidade */
+[data-theme="light"] {
+  --bg: #ffffff;
+  --surface: #f8fafc; /* slate-50 */
+  --text: #0b1220; /* slate-950-ish */
+  --muted: #475569; /* slate-600 */
+  --primary: #E11D1D; /* mantém a identidade */
+  --accent: #ef4444; /* realce coerente em superfícies claras */
+  --success: #16a34a;
+}
+
+html, body, #__next {
+  height: 100%;
+}
+
+/* Tipografia unificada: Inter como fonte principal, Poppins para títulos especiais */
+.font-inter { 
+  font-family: var(--font-inter), Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+.font-poppins {
+  font-family: var(--font-poppins), Poppins, system-ui, sans-serif;
+}
+
+/* Classe especial para títulos principais (hero, seções importantes) */
+.heading {
+  font-family: var(--font-poppins), Poppins, system-ui, sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.025em;
+}
+
+/* Tipografia com tokens do design system - Inter como padrão */
+h1, .h1 { 
+  font-family: var(--font-inter), Inter, system-ui, sans-serif;
+  font-size: var(--font-h1-mobile);
+  line-height: var(--line-height-heading);
+  font-weight: 700;
+}
+
+@media (min-width: 768px) {
+  h1, .h1 { 
+    font-size: var(--font-h1-desktop);
+  }
+}
+
+h2, .h2 { 
+  font-family: var(--font-inter), Inter, system-ui, sans-serif;
+  font-size: var(--font-h2);
+  line-height: var(--line-height-heading);
+  font-weight: 600;
+  color: #0b1220; /* alto contraste por padrão */
+}
+
+/* Em tema escuro, manter contraste alto com branco quase puro */
+:root:not([data-theme="light"]) h2,
+:root:not([data-theme="light"]) .h2 {
+  color: #ffffff;
+}
+
+/* Em tema claro, reforçar o contraste escuro */
+[data-theme="light"] h2,
+[data-theme="light"] .h2 {
+  color: #0b1220;
+}
+
+h3, .h3 { 
+  font-family: var(--font-inter), Inter, system-ui, sans-serif;
+  font-size: var(--font-h3);
+  line-height: var(--line-height-heading);
+  font-weight: 600;
+}
+
+body {
+  background-color: var(--bg);
+  color: var(--text);
+  font-family: var(--font-inter), Inter, system-ui, sans-serif;
+  font-size: var(--font-body);
+  line-height: var(--line-height-body);
+}
+
+/* Base: usar tamanho padrão */
+html { font-size: 16px; }
+
+/* Componentes utilitários padronizados */
+.auth-card { @apply mx-auto max-w-md px-6 py-8 rounded-xl border; background-color: #ffffff; color: #111827; border-color: rgba(0,0,0,0.1); }
+
+/* Micro-animations e Transições */
+@media (prefers-reduced-motion: no-preference) {
+  .btn,
+  .card,
+  .hover-lift {
+    will-change: transform, opacity;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Botões padrão (apenas exemplos; mantidos) */
+.btn { @apply inline-flex items-center gap-2 px-4 py-2 font-semibold transition-colors; border-radius: var(--border-radius-button); }
+/* Atualizado: .btn-primary agora inclui padding/altura para padronizar sem depender de .btn */
+.btn-primary { @apply inline-flex font-semibold bg-red-600 text-white hover:bg-red-500 active:bg-red-700 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-red-500/50; align-items: center; justify-content: center; gap: 0.5rem; white-space: nowrap; padding: var(--control-py) calc(var(--control-px) + 0.25rem) !important; min-height: var(--control-h); line-height: 1.1; border-radius: var(--border-radius-button); }
+.btn-ghost { @apply text-white/90 hover:text-white hover:bg-white/10 px-3 py-2; border-radius: var(--border-radius-button); }
+/* Botão grande utilizado no herói */
+.btn-primary-large { @apply bg-red-600 text-white hover:bg-red-500 active:bg-red-700 font-semibold; align-items: center; justify-content: center; display: inline-flex; gap: 0.75rem; padding: 0.875rem 1.25rem; min-height: calc(var(--control-h) + 6px); line-height: 1.1; border-radius: calc(var(--border-radius-button) + 4px); }
+/* Variante ghost clara (usada em várias telas) */
+.btn-ghost-light { @apply px-3 py-2; color: #e5e7eb; background-color: transparent; border-radius: var(--border-radius-button); }
+[data-theme="light"] .btn-ghost-light { color: #0b1220; }
+[data-theme="light"] .btn-ghost-light:hover { background-color: rgba(0,0,0,0.05); }
+/* Botão do menu (toggle hambúrguer) */
+.btn-menu { @apply inline-flex items-center justify-center rounded-lg; width: 40px; height: 40px; background-color: rgba(255,255,255,0.05); color: #ffffff; }
+.btn-menu:hover { background-color: rgba(255,255,255,0.1); }
+[data-theme="light"] .btn-menu { background-color: rgba(0,0,0,0.05); color: #0b1220; }
+[data-theme="light"] .btn-menu:hover { background-color: rgba(0,0,0,0.08); }
+
+/* Modo claro: variante ghost com contraste em superfícies claras */
+[data-theme="light"] .btn-ghost { color: #0b1220; }
+[data-theme="light"] .btn-ghost:hover { background-color: rgba(0,0,0,0.05); }
+
+/* NOVOS UTILITÁRIOS: Card, Header Chrome e Nav Link */
+.card {
+  border-radius: var(--border-radius-card);
+  background-color: rgba(255,255,255,0.05);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border: 1px solid rgba(255,255,255,0.10);
+  transition: background-color 200ms ease, border-color 200ms ease, transform 200ms ease;
+}
+.card:hover { background-color: rgba(255,255,255,0.10); }
+
+/* Elevação sutil opcional */
+.hover-lift:hover { transform: translateY(-2px); }
+
+/* Header cromado padrão do produto */
+.header-chrome {
+  position: sticky; top: 0; z-index: 50;
+  border-bottom: 1px solid rgba(255,255,255,0.10);
+  background-color: rgba(0,0,0,0.85);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+}
+
+/* Links de navegação padronizados */
+.nav-link { 
+  padding: 0.5rem 0.75rem; /* py-2 px-3 */
+  border-radius: var(--border-radius-button);
+  color: rgba(255,255,255,0.92);
+  transition: color 160ms ease, background-color 160ms ease;
+}
+.nav-link:hover { color: #ffffff; background-color: rgba(255,255,255,0.08); }
+
+/* Ajustes em modo claro para os utilitários novos */
+[data-theme="light"] .card { 
+  background-color: rgba(0,0,0,0.04);
+  border-color: rgba(0,0,0,0.12);
+  backdrop-filter: none; -webkit-backdrop-filter: none;
+}
+[data-theme="light"] .card:hover { background-color: rgba(0,0,0,0.06); }
+[data-theme="light"] .header-chrome { 
+  background-color: #ffffff; 
+  border-bottom-color: rgba(0,0,0,0.12); 
+  backdrop-filter: none; -webkit-backdrop-filter: none; 
+}
+[data-theme="light"] .nav-link { color: #0b1220; }
+[data-theme="light"] .nav-link:hover { background-color: rgba(0,0,0,0.06); }
+
+/* Cards e superfícies brancas utilitárias */
+.white-surface { background-color: #ffffff !important; color: #0b1220 !important; }
+.white-surface .card { background-color: #ffffff !important; }
+.white-surface .muted, .white-surface .text-muted { color: #475569 !important; }
+
+/* Inputs */
+input, select, textarea {
+  @apply rounded-lg;
+  padding: var(--control-py) var(--control-px) !important; /* ~ py-2 px-3 */
+  min-height: var(--control-h);
+  background-color: transparent;
+  color: inherit;
+  border: 1px solid rgba(255,255,255,0.15);
+  font-size: 0.95rem; /* um pouco menor */
+}
+
+/* Modo claro para inputs */
+[data-theme="light"] input,
+[data-theme="light"] select,
+[data-theme="light"] textarea { border-color: rgba(0,0,0,0.12); }
+
+input:focus, select:focus, textarea:focus {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+  border-color: var(--accent);
+  box-shadow: 0 0 0 4px rgba(229,9,20,0.25);
+}
+
+/* Caixas de imagem com borda sutil */
+.img-frame {
+  border-radius: 12px;
+  border: 1px solid rgba(255,255,255,0.12);
+  padding: 4px;
+  background: radial-gradient(1200px circle at var(--x, 0) var(--y, 0), rgba(255,255,255,0.06), transparent 35%);
+}
+
+[data-theme="light"] .img-frame { border-color: rgba(0,0,0,0.12); background: #fff; }
+
+/* Ajustes de componentes em superfícies claras */
+:where(.white-surface, .bg-white) .btn { color: #0b1220; }
+:where(.white-surface, .bg-white) .btn-primary { background-color: #e11d1d; }
+:where(.white-surface, .bg-white) .btn-ghost { color: #0b1220; }
+:where(.white-surface, .bg-white) .btn-ghost:hover { background-color: rgba(0,0,0,0.04); }
+:where(.white-surface, .bg-white) .btn-ghost:focus-visible { outline: 2px solid #0f172a; outline-offset: 2px; box-shadow: 0 0 0 4px rgba(15,23,42,0.15); }
+
+/* Reduzir densidade de cartões comuns com p-6 quando em superfícies claras */
+:where(.white-surface, .bg-white) .p-6 { padding: 1.25rem !important; }
+:where(.white-surface, .bg-white) .px-4 { padding-left: 0.875rem !important; padding-right: 0.875rem !important; }
+:where(.white-surface, .bg-white) .py-3 { padding-top: 0.625rem !important; padding-bottom: 0.625rem !important; }
+/* Placeholders em superfícies claras: usar tom escuro sutil para melhor leitura */
+:where(.white-surface, .bg-white) input::placeholder,
+:where(.white-surface, .bg-white) textarea::placeholder {
+  color: rgba(15,23,42,0.6);
+}
+
+/* Feedback de texto utilitário */
+.text-danger { color: var(--danger); }
+.text-success { color: var(--success); }
+
+/* Scrollbar hide utility for carousels */
+.scrollbar-hide {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;  /* Chrome, Safari and Opera */
+}

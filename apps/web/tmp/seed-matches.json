@@ -1,0 +1,10 @@
+{
+  "poolCode": "M5GJCX",
+  "countPast": 25,
+  "countFuture": 5,
+  "fromCanonical": true,
+  "season": 2025,
+  "competition": "BRA-1",
+  "truncateExisting": false,
+  "fillRandomScoresForPast": true
+}
