@@ -1,0 +1,59 @@
+name: Supabase Cron Sync
+
+on:
+  schedule:
+    - cron: "*/15 * * * *" # Executa a cada 15 minutos
+  workflow_dispatch:
+    inputs:
+      dry:
+        description: "Dry run (não persiste)"
+        required: false
+        default: "false"
+      league:
+        description: "Opcional: restringe a uma liga/chave"
+        required: false
+        default: ""
+
+env:
+  SUPABASE_PROJECT_REF: ${{ secrets.SUPABASE_PROJECT_REF }}
+  SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
+
+jobs:
+  run-cron-sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    concurrency:
+      group: supabase-cron-sync
+      cancel-in-progress: false
+    steps:
+      - name: Validar secrets
+        shell: bash
+        run: |
+          if [ -z "$SUPABASE_PROJECT_REF" ]; then
+            echo "Falta o secret SUPABASE_PROJECT_REF"; exit 1; fi
+          if [ -z "$SUPABASE_ANON_KEY" ]; then
+            echo "Falta o secret SUPABASE_ANON_KEY"; exit 1; fi
+
+      - name: Invocar função cron-sync
+        id: invoke
+        shell: bash
+        run: |
+          BASE="https://${SUPABASE_PROJECT_REF}.supabase.co/functions/v1"
+          DRY="${{ github.event.inputs.dry }}"
+          LEAGUE="${{ github.event.inputs.league }}"
+          QS=""
+          if [ "$DRY" = "true" ]; then QS="${QS}dry=true&"; fi
+          if [ -n "$LEAGUE" ]; then QS="${QS}league=${LEAGUE}&"; fi
+          QS="${QS}trigger=github-actions"
+          URL="${BASE}/cron-sync?${QS}"
+          echo "Chamando: $URL"
+          set -o pipefail
+          RESPONSE=$(curl -sS -X GET -H "Authorization: Bearer ${SUPABASE_ANON_KEY}" "$URL")
+          echo "${RESPONSE}"
+          echo "response=${RESPONSE}" >> "$GITHUB_OUTPUT"
+
+      - name: Exibir resposta resumida
+        shell: bash
+        run: |
+          echo "Saída da função:"
+          echo "${{ steps.invoke.outputs.response }}" | head -n 50
